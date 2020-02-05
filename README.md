@@ -1,5 +1,5 @@
 # Hols der Geier Bot
-## Über das Repositorie
+## Über das Repository
 Dieses Repositorie sammelt Java Klassen für ein Hols der Geier Framework. Das Framework selbst ist nicht in der Repositorie zu finden.
 Das Framework wird im Laufe einer Vorlesung an der THM Gießen zur Verfügung gestellt.  
   
